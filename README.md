@@ -24,7 +24,6 @@ my_venv\Scripts\activate
 pip freeze
 ```
 
-
 - для деактивации виртуального окружения напишите команду:
 ```python
 deactivate
